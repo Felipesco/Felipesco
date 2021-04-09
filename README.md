@@ -23,10 +23,6 @@ Caso queria saber mais:
 
 ___
 
-#### Aqui vai um pequeno resumo: 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&layout=largue)
-
 #### Se liga no repositório **Confusion** (O Cantinho da Bagunça😅):
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Confusion)](https://github.com/Felipesco/Confusion)
