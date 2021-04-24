@@ -3,11 +3,9 @@
 ### Prazer! Meu nome é Felipe Santos, tenho 17 anos e...
 
 - 🤓 Estou no 2º ano na Etec de Guaianazes, cursando Desenvolvimento de Sistemas + Ensino médio;
-- 👷 Faço entrega com a bicicleta e vendo tudo que puder ser vendido (gosto muito de "dar uma" de vendedor😅);
 - 🥰 Estou a procura de um trabalho na área de "TI" para que eu possa aprender mais e mais.
 
-Gostaria de uma oportunidade de trabalho, e mesmo que eu não saiba algo...
->Tudo que eu não sei, eu posso e vou aprender ❤️
+Gostaria de uma oportunidade de trabalho, e mesmo que eu não saiba algo... Tudo que eu não sei, eu posso e vou aprender ❤️
 
 Caso queria saber mais:
 
