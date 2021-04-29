@@ -4,11 +4,11 @@
 
 ### Estudos de Pentest:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical)](https://github.com/Felipesco/Confusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical&layout=compact)](https://github.com/Felipesco/Confusion)
 
 #### Veja também o **Confusion** (O Cantinho da Bagunça😅):
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Confusion&theme=radical)](https://github.com/Felipesco/Confusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Confusion&theme=radical&layout=compact)](https://github.com/Felipesco/Confusion)
 
 ___
 
