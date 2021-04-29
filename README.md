@@ -1,10 +1,10 @@
 ## Salvee!😄🤩
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&custom_title=Linguagens)](https://github.com/Felipesco)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&align=center&custom_title=Linguagens)](https://github.com/Felipesco)
 
 ### Os melhores repositórios:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical&layout=compact)](https://github.com/Felipesco/Confusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical&layout=compact)](https://github.com/Felipesco/Pentest-Studies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Confusion&theme=radical&layout=compact)](https://github.com/Felipesco/Confusion)
 
 ___
