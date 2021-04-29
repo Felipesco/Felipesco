@@ -1,6 +1,6 @@
 ## Salvee!😄🤩
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&align=center&custom_title=Linguagens)](https://github.com/Felipesco)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&custom_title=Linguagens)](https://github.com/Felipesco)
 
 ### Os melhores repositórios:
 
