@@ -4,7 +4,7 @@
 
 ### Os melhores repositórios:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical&layout=compact)](https://github.com/Felipesco/Pentest-Studies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical&layout=compact)](https://github.com/Felipesco/Pentest-Studies#-pentest-studies-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Confusion&theme=radical&layout=compact)](https://github.com/Felipesco/Confusion)
 
 ___
