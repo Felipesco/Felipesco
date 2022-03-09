@@ -3,25 +3,34 @@
 <h2> 
   Salvee!🤩 <br>
   Sou Felipe Santos 😄
-</h2> 
-
+</h2>
 
 <h3>
   Estudante de: <br>
   Desenvolvimento de Sistemas <br> 
-
   Pentest <br>
   e Robotica. 
 </h3>
 
 ---
 
+<h4> Conhecimentos: </h4>
+
+![Java](https://img.shields.io/badge/Java-8b4513?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-fde910?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8401b8?style=for-the-badge&logo=php&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/VsCode-174367?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-191970?style=for-the-badge&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-10e756?style=for-the-badge&logo=PyCharm&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&custom_title=Linguagens)](https://github.com/Felipesco)
-
-### Os melhores repositórios:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Pentest-Studies&theme=radical&layout=compact)](https://github.com/Felipesco/Pentest-Studies#-pentest-studies-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipesco&repo=Confusion&theme=radical&layout=compact)](https://github.com/Felipesco/Confusion)
 
 ___
 Bjs 😘
