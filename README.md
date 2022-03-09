@@ -31,7 +31,7 @@
 <br>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&custom_title=Linguagens&hide_border=true)](https://github.com/Felipesco)
-[![](https://github-readme-stats.vercel.app/api?username=Felipesco&show_icons=true&theme=radical&hide_border=true)](https://github.com/Felipesco)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Felipesco&show_icons=true&theme=radical&hide_border=true"/>
 
 ___
 Bjs 😘
