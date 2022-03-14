@@ -33,3 +33,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&custom_title=Linguagens&hide_border=true)](https://github.com/Felipesco)
 [![](https://github-readme-stats.vercel.app/api?username=Felipesco&show_icons=true&theme=radical&hide_border=true)](https://github.com/Felipesco)
+
+---
+Perfil na plataforma da Beecrowd:
+[Felipe Santos - URI | Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/501016)
