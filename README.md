@@ -20,6 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-8b4513?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-fde910?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8401b8?style=for-the-badge&logo=php&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-24bcc7?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/VsCode-174367?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-191970?style=for-the-badge&logo=eclipse&logoColor=white)
