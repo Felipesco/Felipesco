@@ -30,7 +30,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/Mac-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-<br>
+#### Visitas 😍
+![Visitor Count](https://profile-counter.glitch.me/Felipesco/count.svg)
+
+---
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipesco&langs_count=10&layout=compact&theme=radical&custom_title=Linguagens&hide_border=true)](https://github.com/Felipesco)
 [![](https://github-readme-stats.vercel.app/api?username=Felipesco&show_icons=true&theme=radical&hide_border=true)](https://github.com/Felipesco)
