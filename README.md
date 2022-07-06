@@ -11,7 +11,11 @@
   Pentest <br>
   e Robotica. 
 </h3>
-<p> E desenvolvendo o TCC na força do ódio </p> 
+<h5> Vamos conversar? </h5>
+
+<a href="https://wa.me/5515992019544" target="_blank"> 
+<img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank">
+</a>
 
 ---
 
@@ -41,3 +45,5 @@
 ---
 Perfil na plataforma da Beecrowd:
 [Felipe Santos - URI | Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/501016)
+
+<p> E desenvolvendo o TCC na força do ódio </p> 
