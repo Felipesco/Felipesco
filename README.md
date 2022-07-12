@@ -14,10 +14,6 @@
 <img align="center" width="10%" height="10%" src="https://user-images.githubusercontent.com/72233926/178391318-4f218869-cef3-4ce3-93ae-44fc4467f2f0.png">
 <h5> Vamos conversar? </h5>
 
-<a href="https://wa.me/5515992019544" target="_blank"> 
-<img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank">
-</a>
-
 ---
 
 <h4> Conhecimentos: </h4>
