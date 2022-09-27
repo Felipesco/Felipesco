@@ -9,7 +9,8 @@
   Estudante de: <br>
   Desenvolvimento de Sistemas <br> 
   Pentest <br>
-  e Robotica. 
+  Robotica <br>
+  e Análise de Dados.
 </h3>
 <img align="center" width="10%" height="10%" src="https://user-images.githubusercontent.com/72233926/178391318-4f218869-cef3-4ce3-93ae-44fc4467f2f0.png">
 
