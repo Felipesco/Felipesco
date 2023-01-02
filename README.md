@@ -13,6 +13,7 @@ Computer Science student at São Paulo Tech School, Systems Development Technici
 - Microsoft Certified: Azure Data Fundamentals. [Certificate](https://www.credly.com/badges/1b533ff8-529a-4fa1-8a32-989f5eba6d63)
 - Microsoft Certified: Azure AI Fundamentals. [Certificate](https://www.credly.com/badges/62724d82-b553-4319-8be1-cd06b0b9cc96)
 - My Blog on Medium. [Access](https://medium.com/@felipesco)
+- Fictional TCC (Trabalho de Conclusão de Curso - Course Completion Work) company of which I was part. [Seven Stars Incorporation](https://github.com/orgs/seven-stars-incorporation/repositories)
 
 ![Java](https://img.shields.io/badge/Java-8b4513?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-fde910?style=for-the-badge&logo=python&logoColor=white)
