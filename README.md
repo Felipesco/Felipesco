@@ -6,12 +6,13 @@
 </h2>
 
 <h3> About me: </h3>
-Computer Science student at São Paulo Tech School, Systems Development Technician at ETEC Guaianazes and Robotics and Hacking Apprentice.
+Computer Science student at São Paulo Tech School, Systems Development Technician at ETEC Guaianazes and Robotics and Hacking Apprentice.🤖😁
 
 <h3>Some knowledge: </h3>
 
 - Microsoft Certified: Azure Data Fundamentals. [Certificate](https://www.credly.com/badges/1b533ff8-529a-4fa1-8a32-989f5eba6d63)
 - Microsoft Certified: Azure AI Fundamentals. [Certificate](https://www.credly.com/badges/62724d82-b553-4319-8be1-cd06b0b9cc96)
+- My Blog on Medium. [Access](https://medium.com/@felipesco)
 
 ![Java](https://img.shields.io/badge/Java-8b4513?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-fde910?style=for-the-badge&logo=python&logoColor=white)
