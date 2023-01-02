@@ -8,7 +8,7 @@
 <h3> About me: </h3>
 Computer Science student at São Paulo Tech School, Systems Development Technician at ETEC Guaianazes and Robotics and Hacking Apprentice.
 
-<h3>Alguns Conhecimentos: </h3>
+<h3>Some knowledge: </h3>
 
 - Microsoft Certified: Azure Data Fundamentals. [Certificate](https://www.credly.com/badges/1b533ff8-529a-4fa1-8a32-989f5eba6d63)
 - Microsoft Certified: Azure AI Fundamentals. [Certificate](https://www.credly.com/badges/62724d82-b553-4319-8be1-cd06b0b9cc96)
